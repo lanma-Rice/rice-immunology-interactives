@@ -2,4 +2,4 @@
 
 Video ID: A05
 
-Planned practice activity; no student-facing page published yet.
+Ungraded practice activity. Open `index.html` in a browser to preview.

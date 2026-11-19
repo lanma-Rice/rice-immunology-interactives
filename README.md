@@ -7,15 +7,14 @@ GitHub Pages-ready static practice activity repository.
 - Four courses, currently identified as **course-1** through **course-4**, corresponding to Units 1–4 of the Summer 2026 video tracker.
 - All 13 modules and 62 numbered lectures have folders.
 - Module numbers are **global**, as in the tracker: 01–13. Each lesson number restarts at 01 within its module.
-- **Only Course 1 / Module 1 / Lesson 1 contains a live activity page.** All other lesson folders have a placeholder README, not an empty student-facing web page.
+- **Course 1 / Module 1 / Lessons 1–5 have live activity pages** (`index.html`). All other lesson folders have a placeholder README, not an empty student-facing web page.
 
-### GitHub Pages setup
+### GitHub Pages
 
-1. Create a **public** GitHub repository named `rice-immunology-interactives` (or use a Rice-owned GitHub organization, if available). Public Pages and image copyright should be checked before publishing.
-2. Upload **the contents of this ZIP** to the root of the new repository, preserving folders (the ZIP has no wrapper folder).
-3. In **Settings → Pages**, choose **Deploy from a branch**, `main`, `/ (root)` and save.
-4. Your first lesson will then be at: `https://immunology-coursera.github.io/rice-immunology-interactives/course-1/module-01/lesson-01/`. 
-5. Test the URL and Coursera iframe embedding before publishing learner-facing links.
+- Repository: `lanma-Rice/rice-immunology-interactives` (transferred from `Immunology-Coursera`, Nov 2026).
+- Pages source: **Settings → Pages** → Deploy from a branch, `main`, `/ (root)`.
+- Lesson URL pattern: `https://lanma-rice.github.io/rice-immunology-interactives/course-1/module-01/lesson-01/`
+- Old `immunology-coursera.github.io` links do **not** redirect. Update any Coursera embeds that still use them.
 
 ### Notes
 
